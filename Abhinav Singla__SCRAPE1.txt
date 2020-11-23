@@ -1,0 +1,272 @@
+
+Abhinav Singla
+Email: aabhinav.singla@gmail.com
+
+Phone: +91 70426 44002
+
+Summary
+
+5.7 Years of Experience in Functional Testing (Web, Mobile), Automation Testing (Selenium) and API Testing. 
+
+•
+•  Experience in Web and Mobile Based Application Testing in Agile Model Project (SCRUM).
+•  Expertise in writing Test strategy, Test Plan Preparation and Implementation, Test Case Design, Test Tool
+
+usage, Test execution, Defect Management and Defect Tracking.
+
+•  Expertise in developing Automation Framework using Selenium and Creating/Updating Automation Scripts.
+•  Good experience on Continuous Integration Tools like Jenkins.
+•  Expertise in Data Structure and Programming in Java.
+•  Experience in Automated API Testing using Smart Bear Ready API tool (Soap UI).
+•  Worked in Mobile Testing on Android and IOS devices.
+•  Experience in using QC (HP Quality Center) and TFS (Microsoft Team Foundation Server) for defect raising and
+
+generating reports.
+
+•  Excellent experience with source version control tools such as TFS .
+•  Skilled in backend testing of SQL Queries and experienced in sample records preparation.
+•  Experienced in performing the following tests: Black box, Regression, Integration and User Acceptance & UI
+
+•  Good knowledge of the DevOps,Software Testing Life Cycle (STLC) and Software Development Life Cycle
+
+testing and End to End Testing.
+
+(SDLC) in Agile Platform.
+
+Experience
+
+  Quality Engineer-|||
+
+Walmart
+
+Mar 2019-Present
+
+Project Title : Global Business Services, Retail
+
+Tools Used : Jira, Postman, Selenium, Rest Assured
+
+Description : Retail Purchase Order Invoicing Mechanism.
+
+Roles and Responsibilities
+
+•  Created and Verified Web services API requests using Postman.
+
+•  Experience in Performance Testing using Rest Assured.
+•  Extensively automated regression and functional test suites using Selenium WebDriver, JAVA.
+•
+
+Implemented Page Objects framework, Data driven framework to retrieve test actions, test data from
+Excel files and SQL Databases.
+
+•  Configured Maven for JAVA automation projects and developed Maven project object model (POM).
+•  Used Maven to execute Selenium automation suites on different platform, browser combinations in parallel.
+•  Wrote SQL queries extensively, queried database and generated test reports.
+•  Performed Defect Tracking & Management in JIRA. Generated automated daily reports using JIRA API.
+•  Worked in a highly dynamic AGILE environment and participated in scrum and sprint meetings
+•  Assisted Manager by providing automation strategies, Selenium/Cucumber Automation and JIRA reports.
+Identified weaknesses in QA Processes, Web testing, Selenium Automation. Suggested & implemented
+improvements
+
+
+Sep 2018–Mar 2019
+
+Senior Software Engineer-Testing
+CenturyLink
+
+Project Title : Airtel Payment Bank
+
+Tools Used : Jira, Postman, Selenium, Putty,GIT
+
+
+
+
+
+
+
+
+Description : Airtel Money is a digital wallet by Airtel Payment Bank that allows users to make payments using
+"My Airtel app".
+
+Roles and Responsibilities
+
+•  Created and Verified Web services API requests using Postman.
+•  Extensively automated regression and functional test suites using Selenium WebDriver, JAVA.
+•
+
+Implemented Page Objects framework, Data driven framework to retrieve test actions, test data from
+Excel files and SQL Databases.
+
+•  Configured Maven for JAVA automation projects and developed Maven project object model (POM).
+•  Used Maven to execute Selenium automation suites on different platform, browser combinations in parallel.
+•  Wrote SQL queries extensively, queried database and generated test reports.
+•  Performed Defect Tracking & Management in JIRA. Generated automated daily reports using JIRA API.
+•  Worked in a highly dynamic AGILE environment and participated in scrum and sprint meetings
+•  Assisted Manager by providing automation strategies, Selenium/Cucumber Automation and JIRA reports.
+Identified weaknesses in QA Processes, Web testing, Selenium Automation. Suggested & implemented
+•
+improvements.
+
+
+Aug 2013 - Sep 2018
+
+Test Engineer Senior Analyst
+Accenture
+
+Project Title : MyInnovation
+
+Tools Used  : Selenium,TFS, SmartBear Ready API(Soap UI),Eclipse
+
+Description : MyInnovation platform is an enterprise wide one stop shop for Accenture's Innovation - Idea
+
+creation, generation and execution. It is Web based global application by anyone can create contest,
+Ideas, Challenges.
+
+Roles and Responsibilities as Automation Tester
+
+Involved in designing and implementation of Hybrid framework using Selenium web driver.
+
+•
+•  Converted Manual Test cases in to Automated Scripts.
+•  Writing scripts using Selenium Web Driver.
+•  Preparing regression test suite for the automation.
+•
+•  Executing the test scripts, analyzing the results and updating the status
+•
+•  Responsible for daily status of scripts and weekly updates.
+•  Performing API testing and written Jmeter Scripts.
+
+Involved in reviewing Automation Script.
+
+Identifying Defects, reporting them and retesting the fixes using automation scripts.
+
+Roles and Responsibilities as Manual Tester
+
+•  Co-ordinate with Onsite Coordinator and Team at offshore
+•
+
+Identify and Design Test Scenarios & extensively prepared Test Plan, Test Execution schedule, test
+cases and scripts and get it reviewed from the client on time
+
+•  Responsible for reviewing test cases, validation and results to ensure that they meet the entry and exit
+
+criteria
+Involved in Regression, System and Integration testing.
+
+•
+•  Extensively used HP Quality Center as test management tool to upload test cases, execute test cases,
+
+raise defects and track defects
+
+•  Prepared Daily status report and sent to Offshore QA Lead/Onsite.
+•  Always ensured that all the deliverable are of high quality and are delivered on time.
+•  Provided KT to new joiners on the process flow and clarified their queries when required
+•  Given extended support to Onsite/ Client during UAT.
+•  Defect Reporting and Verification in QC
+•  Web API testing for Web based claims using REST
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Title : Solution to deal Evaluation (SDE)
+
+Tools Used : Selenium,TFS, SmartBear Ready API(Soap UI),Eclipse
+
+Description : The Solutioning to pricing strategy is analyzing critical components of how we shape deals and
+determine if we need to change current solutions to meet business outcomes. It includes Estimating, Solutioning,        
+Pricing/Costing, Review/Approval, Mobile to delivery, reporting.
+
+Roles and Responsibilities
+
+•  Participating in designing Test Plan and Test strategy.
+•  Design and develop the Test Scenarios and upload the test scripts in QC along with requirement
+
+traceability.
+
+•  Prepare the Test Data requirements, Test Data approach for test execution
+•  Preparing the Test data for Scenarios.
+•  Create and enhance Automated scripts using Selenium Web driver.
+•  Execute Automated Test scripts for BVT and Regression Testing.
+•  Testing of API using Smart Bear API Tool (Soap UI).
+•  Execute the Test cases from TFS.
+•  Raise appropriate defects in TFS and conduct defect review meetings.
+•  Generate Test completion reports.
+
+Project Title : Global Site System Programme (GSSP)
+
+Tools Used : HP Quality Center,HP QTP
+
+Description : The Site System is the IT hardware and software essential to run a Service Station. Site systems
+are becoming technically obsolete and non-compliant with external card acceptance mandates and the internal
+Retail Information Security Standards.
+
+Roles and Responsibilities
+
+•  Understand the Business requirements and write effective test cases.
+•  Participate, provide inputs on the planning of Testing Processes to be followed.
+•  Enhancing the Test Scripts for global Execution.
+•  Preparing the Test data for Scenarios.
+•  Creating and Updating Automated Test scripts using QTP.
+•  Running Automated Test scripts for BVT and Regression Suits.
+•  Executing Manual Test scripts and Locking Bugs in QC.
+•  Creating various Test Reports after each execution cycle. Participated in conference calls with client and
+
+effectively communicated regarding the issues, project updates etc.
+
+Education
+
+Skills
+
+Jaypee University of Information Technology
+Bachelor of Technology - BTech, Computer Science, 70%
+
+2009 - 2013
+
+Automation • Selenium WebDriver • TestNG • Java • API Testing • SoapUI • Manual Testing •  JIRA
+
+•  Mobile Testing • Database Testing
+
+
+Agile Professional Certification • Accenture
+
+
+
+
+
+
+
+
+
+
+
+
+Certifications
+
+Aug 2017 - Present
+
+Honors & Awards
+
+Got Positive Attitude Award • CenturyLink • Dec 2018
+
+Got Inspire Award from client for excellent performance • Accenture • Dec 2016
+
+Got Highest Rating consecutive 3 years in row • Accenture
+Got Highest Rating consecutive 3 years in row • Accenture
+
